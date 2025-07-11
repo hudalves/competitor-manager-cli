@@ -1,0 +1,10 @@
+Boxe,Masculino,123456789,12345678901,Gabriel Cardoso,23,Peso galo(até 61.2kg)
+Muay Thai,Masculino,987654321,10987654321,Hudson Alves dos Santos,18,Peso meio-médio(até 77.1kg)
+Jiu Jitsu,Feminino,213456789,12345678903,Raissa Oliveira,24,Peso galo(até 61.2kg)
+Judô,Feminino,123456784,12345678904,Luiza Castro,31,Peso médio(até 83.9kg)
+MMA,Masculino,123456786,12345678900,Alex Pereira,38,Peso meio-pesado(até 93.0kg)
+
+Boxe,Masculino,123456788,12345678909,fff,33,Peso mosca(até 56.7kg)
+Boxe,Masculino,123456780,12345678906,ddd,22,Peso pena(até 65.8kg)
+Boxe,Masculino,234567890,23456789012,kkkkk,44,Peso leve(até 70.3kg)
+Boxe,Masculino,234567896,12345678991,rrrrr,37,Peso meio-médio(até 77.1kg)
